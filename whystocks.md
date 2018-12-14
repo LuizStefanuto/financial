@@ -1,4 +1,4 @@
-## Why invest
+# Why invest
 
 The first objective of any investment strategy should be retirement income through capital accumulation. 
 
@@ -14,6 +14,6 @@ Income ownership | stocks, bonds, real state | leveraging, share issuance|
 
 ## Why stocks
 
-There are three basic instruments that allow investors to acquire income: stocks, real state and bonds. Altough the income received via interest by bonds or via rent by real state can be adjusted by some form of index, correcting for inflation for instance, the only instrument that derive its income directly from the production process is shares of a productive company. In this sense, stocks are the only asset whose income can grow based on increasingly higher productivity, and indefinetely. 
+There are three basic instruments that allow investors to acquire income: stocks, real state and bonds. Altough the income received via interest by bonds or via rent by real state can be adjusted by some form of index, correcting for inflation for instance, the only instrument that derive its income directly from the production process is shares of a productive company. In this sense, stocks are the only asset whose income can grow based on increasingly higher productivity, and indefinitely. 
 
 

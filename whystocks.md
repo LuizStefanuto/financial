@@ -1,4 +1,4 @@
-
+## Why invest
 The first objective of any investment strategy should be retirement income through capital accumulation. 
 
 ## Types of action in the market
